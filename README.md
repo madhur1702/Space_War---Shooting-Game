@@ -1,4 +1,4 @@
-# 🚀 Space War – HTML Canvas Shooting Game
+# 🚀 Space War – Shooting Game
 
 A retro-style arcade shooter game built using HTML, CSS, and JavaScript. Pilot your spaceship, destroy enemies, and dodge bullets in this immersive, fast-paced canvas-based experience!
 
